@@ -81,7 +81,3 @@ Prediction accuracy can be improved by including more features from the dataset.
 - Deploy app online (Streamlit Cloud / Render)
 - Add better UI/UX
 
----
-⭐ Acknowledgement
-
-Dataset used for educational and project purposes.
